@@ -48,7 +48,7 @@ public class StartOptions : MonoBehaviour {
 		if (changeScenes) 
 		{
 			//Use invoke to delay calling of LoadDelayed by half the length of fadeColorAnimationClip
-			Invoke ("LoadDelayed", fadeColorAnimationClip.length - 1.5f);
+			Invoke ("LoadDelayed", fadeColorAnimationClip.length * .5f);
 
 			//Set the trigger of Animator animColorFade to start transition to the FadeToOpaque state.
 			animColorFade.SetTrigger ("fade");

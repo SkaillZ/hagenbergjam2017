@@ -38,30 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 95799063
-    locked: 0
-  - name: Leitungen
-    uniqueID: 2245120151
-    locked: 0
-  - name: Wall
-    uniqueID: 1614126791
-    locked: 0
-  - name: Trees
-    uniqueID: 485986799
-    locked: 0
-  - name: Houses
-    uniqueID: 2166485553
-    locked: 0
-  - name: Leiche_01
-    uniqueID: 523795615
-    locked: 0
-  - name: Regal
-    uniqueID: 1520259413
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Vordergrund
-    uniqueID: 2360272041
     locked: 0
